@@ -55,6 +55,7 @@ def exchange():
 
 
 if __name__ == "__main__":
+    print("start..................")
     try:
         cnt = 0
         round_time = datetime.strptime(round, "%H:%M").time()
