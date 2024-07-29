@@ -1,4 +1,4 @@
-name: 开始每日签到
+name: 测试
 
 on:
   workflow_dispatch:
